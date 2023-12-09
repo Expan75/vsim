@@ -1,21 +1,4 @@
-# FFR120 - Voting simulator project
-
-This repo contains the code for simulating voting systems as part of a class project for FFR120.
-
-### Experiments
-
-This matrix corresponds to the experiments were are planning to run and wether or not the simulator currently supports doing so. Completed means that results of simulation are captured in a version controlled notebook.
-
-| voting system              | electorate scenario | dispersion     | supported                | completed analysis       |
-| -------------------------- | ------------------- | -------------- | ------------------------ | ------------------------ |
-| plurality                  | all                 | None, high     | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
-| majority                   | all                 | None, high     | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
-| ranked choice              | all                 | None, high     | <ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> |
-| proportional, no threshold | all                 | None, high     | <ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> |
-| proportional, 4% threshold | all                 | None, high     | <ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> |
-| plurality                  | swedish public      | not applicable | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> |
-| majority                   | swedish public      | not applicable | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> |
-| ranked choice              | swedish public      | not applicable | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> |
+# VSIM - Voting simulator
 
 ### Getting started with analysis
 
